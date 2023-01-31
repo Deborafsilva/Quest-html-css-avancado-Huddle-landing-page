@@ -1,0 +1,95 @@
+html{
+    background: url(../image/bg-desktop.svg) no-repeat;
+    background-color: var(--primary);    
+}
+
+.header{
+    padding-left: 70px;
+    margin-bottom: 20px;
+}
+
+.header img{
+    height: 170px;
+    width: 215px;      
+}
+
+.hero .hero-container{
+    display: flex;
+    padding: 0 5px 0 70px ;
+}
+
+.hero .hero-container .image{
+    max-width: 100%;
+}
+
+.hero .hero-container .hero-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding: 0px 80px 0px 54px;
+}
+
+.hero .hero-container h1{
+    color: white;
+    font-size: 39.5px;
+    margin: 45px auto 20px;
+}
+
+.hero .hero-container p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    line-height: 27px;
+    color: rgb(216, 216, 216);    
+}
+
+.hero .hero-container .botao{
+    width: 200px;
+    height: 50px;
+    border-radius: 100px;    
+    border-style: hidden;
+}
+
+.hero .hero-container .botao a{
+    color: var(--primary);
+    font-size: 18px;
+    font-weight: 400;   
+}
+
+.hero .hero-container a:hover , .botao:hover{
+    color: #ffff;
+    background-color: var(--primary-soft);    
+}
+
+footer{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 21px;
+    padding-right: 80px;
+}
+
+footer button{
+    background: var(--primary);
+    border-radius: 50%;
+    border: 1px solid #ffff;
+    height: 40px;
+    width: 40px;
+    margin-inline-start: 12px;
+    transition: 0.3s;
+}
+
+footer button .fa-facebook-f,.fa-twitter,.fa-instagram{
+    font-size: 15px;
+    color: #ffff;
+    transition: 0.3s;
+}
+
+footer button:hover{
+    border: 1px solid var(--primary-soft);
+}
+
+footer button .fa-facebook-f:hover,.fa-twitter:hover,.fa-instagram:hover{
+    color: var(--primary-soft);
+}
+
+

@@ -1,0 +1,131 @@
+@media(max-width:1024px){
+    .header{
+        padding-left: 25px;
+    }
+
+    .hero .hero-container{
+        /* padding-top: 50px; */
+        padding: 25px;
+    }
+
+    .hero .hero-container .image{
+        max-width: 100%;
+    }
+
+    .hero .hero-container .hero-info{
+        padding-right: 5px;
+    }
+
+
+    .hero .hero-container .hero-info h1{
+        font-size: 18px;
+    }
+
+    .hero .hero-container .hero-info p{
+        font-size: 13px;
+    }
+
+    .hero .hero-container .hero-info .botao{
+        width: 160px;
+        height: 40px;
+    }
+
+    .hero .hero-container .hero-info .btn{
+        font-size: 15px;
+    }
+
+    footer{
+        padding-top: 2.5px;
+    }
+}
+
+@media(max-width:688px){
+    
+    .hero .hero-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hero .hero-container .hero-info h1{
+        font-size: 35px;
+    }
+
+    .hero .hero-container .hero-info p{
+        font-size: 16px;
+    }
+
+    footer{
+        padding: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    
+}
+
+@media(max-width:375px){
+    html{
+        background: url(../image/bg-mobile.svg) no-repeat;
+        background-color: var(--primary);
+    }
+
+    .header{
+        padding: 20px;
+    }
+
+    .header img{
+        height: 40px;
+        width: 135px ; 
+    }
+
+    .hero .hero-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+
+    .hero .hero-container .image{
+        max-width: 100%;
+        padding-left: 15px;
+    }
+
+    .hero .hero-container .hero-info{
+        text-align: center;
+        padding: 5px ;
+    }
+
+    .hero .hero-container .hero-info h1{
+        font-size: 25px;
+    }
+
+    .hero .hero-container .hero-info p{
+        font-size: 16.5px;
+    }
+
+    .hero .hero-container .hero-info .botao{
+        width: 200px;
+        height: 40px;
+    }
+
+    .hero .hero-container .hero-info .btn{
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    footer{
+        padding: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    footer button{
+        margin-right: 10px;
+    }
+}
+    
