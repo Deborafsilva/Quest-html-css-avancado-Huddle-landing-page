@@ -7,7 +7,7 @@ Obrigado por conferir meu projeto que é um  desafio de codificação do site: [
 
 Podemos visualizar o projeto "Hudlle landing page" na versão:
 ## Desktop-design 
-![Visualizando o projeto para o “Huddle landing page” com uma única seção introdutória, na versão desktop](./x-design/desktop-design.jpg)
+![Visualizando o projeto para o “Huddle landing page” com uma única seção introdutória, na versão desktop](./x-design/desktop-design.png)
 
 ## Mobile-design
 ![Visualizando o projeto para o “Huddle landing page” com uma única seção introdutória, na versão mobile](./x-design/mobile-design.png)
