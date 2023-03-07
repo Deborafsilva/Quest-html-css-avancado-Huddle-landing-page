@@ -69,7 +69,7 @@ Continuar a treinar em projetos pequenos o HTML e CSS, os seguintes conteúdos: 
 
 ## Author
 
--  GitHub - [@deborafsilva](https://deborafsilva.github.io/Quest-html-css-avancado-Huddle-landing-page/)
+- GitHub-pages - [Huddle landing page](https://deborafsilva.github.io/Quest-html-css-avancado-Huddle-landing-page/)
 - Linkedin - [Debora Fernandes da Silva | www.linkedin.com/in/deborafernandesdasilva](www.linkedin.com/in/deborafernandesdasilva)
 
 
